@@ -1,0 +1,2 @@
+class BtSyncError(RuntimeError):
+    pass
